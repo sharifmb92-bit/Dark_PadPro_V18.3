@@ -1,0 +1,15 @@
+{
+  "name": "DarkPad Pro",
+  "short_name": "DarkPad",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050a0f",
+  "theme_color": "#050a0f",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3767/3767084.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
